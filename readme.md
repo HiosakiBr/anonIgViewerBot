@@ -35,7 +35,7 @@ I left the *cookies.py* file commented out explaining what
 
 ### Use on local machine
 
-to do this you must change in the file *instagra,py* on line 39 how the browser should be started, then change this:
+to do this you must change in the file *instagram.py* on line 39 how the browser should be started, then change this:
 
 ```python
 39: driver = Browser.deploy()
@@ -52,4 +52,4 @@ for that:
 some changes I want to make are taking the user's profile picture, downloading photo and video from the posts feed and even figuring out a way to run without the need for the session cookie. If you have an idea, don't hesitate to open a pull request, I'll be happy to see you helping the project!
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/HiosakiBr/anonIgViewerBot/blob/main/LICENSE)
